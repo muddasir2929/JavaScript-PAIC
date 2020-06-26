@@ -17,3 +17,5 @@
 //         return this.firstName + " " + this.lastName;
 //     }
 // };
+// person = person.fullName;
+// alert(person);
