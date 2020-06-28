@@ -1,8 +1,8 @@
-var txt = "";
-for (i = 0; i < 5; i++) {
-    txt += "The number is " + i + "<br>";
-}
-document.write(txt);
+// var txt = "";
+// for (i = 0; i < 5; i++) {
+//     txt += "The number is " + i + "<br>";
+// }
+// document.write(txt);
 
 
 // var txt = "";
@@ -24,4 +24,14 @@ document.write(txt);
 // for (x of cars) {
 //   document.write(x + "<br >");
 // }
+
+// var cars = ["toyota", "suzoki", "mehran", "coroloa", "vagonR"];
+// for (i = 0, len = cars.length, text = ""; i < len; i++) {
+//     text += cars[i] + "<br>";
+// }
+// document.write(text);
+
+
+
+
 
