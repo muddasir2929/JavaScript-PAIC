@@ -1,30 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>js accessors</title>
 </head>
+
 <body>
 
     <p id="demo"></p>
-    <script>
+    <!-- <script>
         // Create an object:
         var person = {
-          firstName: "John",
-          lastName : "Doe",
-          language : "NO",
-          set lang(value) {
-            this.language = value;
-          }
+            firstName: "John",
+            lastName: "Doe",
+            language: "NO",
+            set lang(value) {
+                this.language = value;
+            }
         };
         // Set a property using set:
         person.lang = "en";
         // Display data from the object:
         document.getElementById("demo").innerHTML = person.language;
-        </script>
+    </script> -->
 
-
+    <script>
+        // Create an object:
+        var person = {
+            firstName: "John",
+            lastName: "Doe",
+            fullName: function () {
+                return this.firstName + " " + this.lastName;
+            }
+        };
+        // Display data from the object using a method:
+        document.getElementById("demo").innerHTML = person.fullName();
+    </script>
     <script src="app.js"></script>
 </body>
+
 </html>
