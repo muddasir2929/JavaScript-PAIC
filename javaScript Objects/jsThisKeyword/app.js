@@ -6,3 +6,7 @@ var person = {
       return this.firstName + " " + this.lastName;
     }
   };
+
+  fullName : function() {
+    return this.firstName + " " + this.lastName;
+  }
