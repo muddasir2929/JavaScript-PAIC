@@ -11,5 +11,5 @@
 //     return this.firstName + " " + this.lastName;
 //   }
 
-"use strict";
-var x = this;
+// "use strict";
+// var x = this;
