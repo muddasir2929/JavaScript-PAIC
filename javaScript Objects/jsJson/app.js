@@ -23,3 +23,5 @@
 // '{ "firstName":"Anna" , "lastName":"Smith" },' +
 // '{ "firstName":"Peter" , "lastName":"Jones" } ]}';
 
+// Then, use the JavaScript built-in function JSON.parse() to convert the string into a JavaScript object:
+// var obj = JSON.parse(text);
