@@ -10,3 +10,16 @@
 //       {"firstName":"Peter", "lastName":"Jones"}
 //     ]
 //     }
+
+
+// A common use of JSON is to read data from a web server, and display the data in a web page.
+
+// For simplicity, this can be demonstrated using a string as input.
+
+// First, create a JavaScript string containing JSON syntax:
+
+// var text = '{ "employees" : [' +
+// '{ "firstName":"John" , "lastName":"Doe" },' +
+// '{ "firstName":"Anna" , "lastName":"Smith" },' +
+// '{ "firstName":"Peter" , "lastName":"Jones" } ]}';
+
