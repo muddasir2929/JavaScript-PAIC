@@ -55,3 +55,22 @@ for (let i = 0; i < 10; i++) {
   // some statements
 }
 // Here i is 5
+
+
+function myFunction() {
+    var carName = "Volvo";   // Function Scope
+  }
+  function myFunction() {
+    let carName = "Volvo";   // Function Scope
+  }
+
+
+  var x = 2;       // Global scope
+  let x = 2;       // Global scope
+
+  var carName = "Volvo";
+// code here can use window.carName
+
+let carName = "Volvo";
+// code here cannot use window.carName
+
