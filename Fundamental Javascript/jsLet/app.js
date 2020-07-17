@@ -74,3 +74,49 @@ function myFunction() {
 let carName = "Volvo";
 // code here cannot use window.carName
 
+var x = 2;
+
+// Now x is 2
+ 
+var x = 3;
+
+// Now x is 3
+
+
+var x = 2;       // Allowed
+let x = 3;       // Not allowed
+
+{
+  var x = 4;   // Allowed
+  let x = 5   // Not allowed
+}
+
+
+let x = 2;       // Allowed
+let x = 3;       // Not allowed
+
+{
+  let x = 4;   // Allowed
+  let x = 5;   // Not allowed
+}
+
+
+let x = 2;       // Allowed
+var x = 3;       // Not allowed
+
+{
+  let x = 4;   // Allowed
+  var x = 5;   // Not allowed
+}
+
+
+
+let x = 2;       // Allowed
+
+{
+  let x = 3;   // Allowed
+}
+
+{
+  let x = 4;   // Allowed
+}
