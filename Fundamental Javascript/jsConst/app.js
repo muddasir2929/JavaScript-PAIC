@@ -81,8 +81,8 @@
 // }
 
 
-carName = "Volvo";    // You CAN use carName here
-var carName;
+// carName = "Volvo";    // You CAN use carName here
+// var carName;
 
-carName = "Volvo";    // You can NOT use carName here
-const carName = "Volvo";
+// carName = "Volvo";    // You can NOT use carName here
+// const carName = "Volvo";
