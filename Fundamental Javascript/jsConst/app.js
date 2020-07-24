@@ -79,3 +79,7 @@
 // {
 //   const x = 4;   // Allowed
 // }
+
+
+carName = "Volvo";    // You CAN use carName here
+var carName;
