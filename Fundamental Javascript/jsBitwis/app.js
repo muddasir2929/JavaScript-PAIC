@@ -12,4 +12,7 @@
 
 // 11111111111111111111111111111010 (~5 = -6)
 
-A signed integer uses the leftmost bit as the minus sign.
+// A signed integer uses the leftmost bit as the minus sign.
+
+// var x = 5 & 1;
+// var x = 5 | 1;
