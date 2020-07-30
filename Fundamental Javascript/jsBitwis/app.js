@@ -18,3 +18,8 @@
 // var x = 5 | 1;
 
 var x = 5 >>> 1;
+
+
+function dec2bin(dec){
+    return (dec >>> 0).toString(2);
+  }
