@@ -24,14 +24,14 @@
 //     return (dec >>> 0).toString(2);
 //   }
 
-firstName = "John";
-lastName = "Doe";
+// firstName = "John";
+// lastName = "Doe";
 
-price = 19.90;
-tax = 0.20;
+// price = 19.90;
+// tax = 0.20;
 
-fullPrice = price + (price * tax);
+// fullPrice = price + (price * tax);
 
 
-var x = y + z;
-var values = ["Volvo", "Saab", "Fiat"];
+// var x = y + z;
+// var values = ["Volvo", "Saab", "Fiat"];
