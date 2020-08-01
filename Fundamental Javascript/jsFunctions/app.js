@@ -14,3 +14,6 @@
 // the number eleven indicates that functions can be used as variables.
 // Local Variables: the local variables are those which we place in the curly brackets {} of functions.
 
+function myFunction(p1, p2) {
+  return p1 * p2;   // The function returns the product of p1 and p2
+}
