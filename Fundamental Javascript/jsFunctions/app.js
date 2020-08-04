@@ -34,3 +34,9 @@
 var x = 5;
 var y = 2;
 var z = x + y;
+
+
+function toCelsius(fahrenheit) {
+    return (5/9) * (fahrenheit-32);
+  }
+  document.getElementById("demo").innerHTML = toCelsius(77);
