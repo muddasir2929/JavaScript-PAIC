@@ -31,12 +31,12 @@
 // var y = 2;         // assign the value 2 to y
 // var z = x + y;     // assign the value 7 to z (x + y)
 
-var x = 5;
-var y = 2;
-var z = x + y;
+// var x = 5;
+// var y = 2;
+// var z = x + y;
 
 
-function toCelsius(fahrenheit) {
-    return (5/9) * (fahrenheit-32);
-  }
-  document.getElementById("demo").innerHTML = toCelsius(77);
+// function toCelsius(fahrenheit) {
+//     return (5/9) * (fahrenheit-32);
+//   }
+//   document.getElementById("demo").innerHTML = toCelsius(77);
