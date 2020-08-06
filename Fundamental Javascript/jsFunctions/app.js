@@ -40,3 +40,11 @@
 //     return (5/9) * (fahrenheit-32);
 //   }
 //   document.getElementById("demo").innerHTML = toCelsius(77);
+
+var x = 10;
+// Here x is 10
+{
+  const x = 2;
+  // Here x is 2
+}
+// Here x is 10
