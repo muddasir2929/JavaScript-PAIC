@@ -50,3 +50,4 @@ var x = 10;
 // Here x is 10
 const PI;
 PI = 3.14159265359;
+const PI = 3.14159265359;
