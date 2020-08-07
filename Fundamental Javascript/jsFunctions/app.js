@@ -54,3 +54,7 @@
 // const PI = 3.141592653589793;
 // PI = 3.14;      // This will give an error
 // PI = PI + 10;   // This will also give an error
+
+var x = 5;         // assign the value 5 to x
+var y = 2;         // assign the value 2 to y
+var z = x + y;     // assign the value 7 to z (x + y)
