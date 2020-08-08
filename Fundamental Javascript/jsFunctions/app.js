@@ -55,27 +55,27 @@
 // PI = 3.14;      // This will give an error
 // PI = PI + 10;   // This will also give an error
 
-var x = 5;         // assign the value 5 to x
-var y = 2;         // assign the value 2 to y
-var z = x + y;     // assign the value 7 to z (x + y)
+// var x = 5;         // assign the value 5 to x
+// var y = 2;         // assign the value 2 to y
+// var z = x + y;     // assign the value 7 to z (x + y)
 
-var x = 5;
-var y = 2;
-var z = x + y;
+// var x = 5;
+// var y = 2;
+// var z = x + y;
 
-var person = {
-    firstName: "John",
-    lastName: "Doe",
-    age: 50,
-    eyeColor: "blue"
-  };
+// var person = {
+//     firstName: "John",
+//     lastName: "Doe",
+//     age: 50,
+//     eyeColor: "blue"
+//   };
   
 
-  var person = {
-    firstName: "John",
-    lastName : "Doe",
-    id       : 5566,
-    fullName : function() {
-      return this.firstName + " " + this.lastName;
-    }
-  };
+//   var person = {
+//     firstName: "John",
+//     lastName : "Doe",
+//     id       : 5566,
+//     fullName : function() {
+//       return this.firstName + " " + this.lastName;
+//     }
+//   };
