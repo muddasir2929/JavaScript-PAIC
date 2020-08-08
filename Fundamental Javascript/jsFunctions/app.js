@@ -62,3 +62,11 @@ var z = x + y;     // assign the value 7 to z (x + y)
 var x = 5;
 var y = 2;
 var z = x + y;
+
+var person = {
+    firstName: "John",
+    lastName: "Doe",
+    age: 50,
+    eyeColor: "blue"
+  };
+  
