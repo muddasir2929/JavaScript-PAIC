@@ -79,3 +79,6 @@
 //       return this.firstName + " " + this.lastName;
 //     }
 //   };
+
+Math.round(4.7);    // returns 5
+Math.round(4.4);    // returns 4
