@@ -82,3 +82,6 @@
 
 // Math.round(4.7);    // returns 5
 // Math.round(4.4);    // returns 4
+var price1 = 5;
+var price2 = 6;
+var total = price1 + price2;
