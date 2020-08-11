@@ -82,18 +82,18 @@
 
 // Math.round(4.7);    // returns 5
 // Math.round(4.4);    // returns 4
-var price1 = 5;
-var price2 = 6;
-var total = price1 + price2;
+// var price1 = 5;
+// var price2 = 6;
+// var total = price1 + price2;
 
-var price1 = 5;
-var price2 = 6;
-var total = price1 + price2;
+// var price1 = 5;
+// var price2 = 6;
+// var total = price1 + price2;
 
 
-<p id="demo"></p>
+// <p id="demo"></p>
 
-<script>
-var carName = "Volvo";
-document.getElementById("demo").innerHTML = carName;
-</script>
+// <script>
+// var carName = "Volvo";
+// document.getElementById("demo").innerHTML = carName;
+// </script>
