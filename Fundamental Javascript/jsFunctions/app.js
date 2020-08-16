@@ -146,3 +146,9 @@
 // var pi = 3.14;
 // var person = "John Doe";
 // var answer = 'Yes I am!';
+
+// var x = 10;
+// // Here x is 10
+// {
+//   const x = 2;
+//   // Here x is 2
