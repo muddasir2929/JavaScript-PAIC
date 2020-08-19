@@ -12,6 +12,15 @@
 // foods[2] = "Snacks";
 // foods[3] = "Sandwich";
 // alert(foods); 
+
+// adding elements in an array
+// var foods = [];
+// foods[0] = "Pizza";
+// foods[1] = "Burger";
+// foods[2] = "Snacks";
+// foods[3] = "Sandwich";
+// alert(foods);
+
 // adding elements in an array
 // var foods = [];
 // foods[0] = "Pizza";
