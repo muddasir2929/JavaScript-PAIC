@@ -39,6 +39,17 @@
 // }
 // document.write(text);
 
+// var cars = ["BMW", "Volvo", "Saab", "Ford"];
+// var text = "";
+// list: {
+//   text += cars[0] + "<br>";
+//   text += cars[1] + "<br>";
+//   break list;
+//   text += cars[2] + "<br>";
+//   text += cars[3] + "<br>";
+// }
+// document.write(text);
+
 // var x = /e/.test("The best things in life are free!");
 // console.log(x);
 
