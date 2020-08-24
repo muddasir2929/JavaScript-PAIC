@@ -14,3 +14,16 @@
 //       moreText.style.display = "inline";
 //     }
 //   }
+
+
+// if (mydots.style.display === "none") {
+//       mydots.style.display = "inline";
+//       btnText.innerHTML = "Read more";
+//       moreText.style.display = "none";
+//     } 
+//     else {
+//       mydots.style.display = "none";
+//       btnText.innerHTML = "Read less";
+//       moreText.style.display = "inline";
+//     }
+//   }
