@@ -14,3 +14,12 @@
 // onkeydown
 // onload
 // onchange
+
+
+// have learnt the following functions:
+// onclick
+// onmouseover
+// onmouseout
+// onkeydown
+// onload
+// onchange
