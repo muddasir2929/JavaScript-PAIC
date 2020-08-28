@@ -2,14 +2,14 @@
 // var person = { name: "John", age: 30, city: "New York" };
 // document.write(person.name + ", " + person.age + ", " + person.city);
 
-// displaying object in a loop
-// var x = 0;
-// var txt = "";
-// var person = { name: "John", age: 30, city: "New York" };
-// for (x in person){
-//     txt += person[x] + " ";
-// };
-// document.write(txt);  // you must use person[x] while person.x will not work as it is variable.
+displaying object in a loop
+var x = 0;
+var txt = "";
+var person = { name: "John", age: 30, city: "New York" };
+for (x in person){
+    txt += person[x] + " ";
+};
+document.write(txt);  // you must use person[x] while person.x will not work as it is variable.
 
 
 // using Object.values function to convert object into an array
