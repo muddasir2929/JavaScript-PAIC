@@ -2,7 +2,7 @@
 // var person = { name: "John", age: 30, city: "New York" };
 // document.write(person.name + ", " + person.age + ", " + person.city);
 
-displaying object in a loop
+// displaying object in a loop
 var x = 0;
 var txt = "";
 var person = { name: "John", age: 30, city: "New York" };
