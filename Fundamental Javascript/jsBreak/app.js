@@ -56,3 +56,8 @@
 // var x = /life/.exec("The best things in life are free!");
 // console.log(x);
 
+// var x = /e/.test("The best things in life are free!");
+// console.log(x);
+
+// var x = /life/.exec("The best things in life are free!");
+// console.log(x);
