@@ -17,6 +17,10 @@
 // var myArray = Object.values(person);
 // document.write(myArray);
 
+// using JSON.stringify function to convert an object into string.
+// var person = {name:"John", age:30, city: "New York"};
+// var myString = JSON.stringify(person);
+// document.write(myString);
 
 // using JSON.stringify function to convert an object into string.
 // var person = {name:"John", age:30, city: "New York"};
