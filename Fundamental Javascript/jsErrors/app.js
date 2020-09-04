@@ -6,3 +6,6 @@
 //   err.message
 // } 
 
+// catch (err) {
+//   err.message
+// } 
