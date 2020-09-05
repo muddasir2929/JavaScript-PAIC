@@ -19,3 +19,8 @@
 // };
 // person = person.fullName;
 // alert(person);
+
+
+// var car = {type: "fiat", model: "500", color: "white"};
+// var y = car["type"] + " " + car["model"] + " " + car["color"];
+// alert(y);
